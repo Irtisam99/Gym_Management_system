@@ -1,5 +1,7 @@
 
 # Gym Management System Using Windows Form and MSSQL DATABASE
+![image](https://github.com/user-attachments/assets/dd304166-263d-48d6-a424-9b66b21d38b1)
+
 - This project is a basic user role based platform for both admin and member which includes CRUD operations (Create, Read, Update, Delete) application developed using C# with Windows Forms as the user interface. It allows users to manage records in a database by performing the four basic operations on data: adding new records, retrieving/displaying records, updating existing records, and deleting records.Besides the admin can manage the data and view certain information provided by the user interfaces.  
 
 ## Demo
